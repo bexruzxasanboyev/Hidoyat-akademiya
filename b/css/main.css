@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Merriweather";
+    src: url("../font/Merriweather-Black-supermin.woff2");
+    font-weight: 900;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Merriweather";
+    src: url("../font/Merriweather-Bold-supermin\ \(1\).woff2");
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Bebas Neue";
+    src: url("../font/BebasNeue-Regular.subset-AZa-z-0-9-punct-percent.woff2");
+    font-weight: 400;
+    font-display: swap;
+}
